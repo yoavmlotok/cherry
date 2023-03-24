@@ -1,2 +1,2 @@
-# cherry
-Cherry, a minecraft customization mod
+# Cherry
+a minecraft customization mod
